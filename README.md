@@ -1,1 +1,2 @@
-# cohort-30-bootstraps
+# cohort-30
+I designed different designs using bootstraps 5
